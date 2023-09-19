@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ShustovTS.Sprint1.Task0.V0.Test\Tyuiu.ShustovTS.Sprint1.Task0.V0.Test.csproj">
-      <Project>{2a4260e4-6198-46a6-8a36-d34345df6147}</Project>
-      <Name>Tyuiu.ShustovTS.Sprint1.Task0.V0.Test</Name>
+    <ProjectReference Include="..\Tyuiu.ShustovTS.Sprint1.Task0.V0.Lib\Tyuiu.ShustovTS.Sprint1.Task0.V13.Lib.csproj">
+      <Project>{c0f5922d-947b-4697-8379-ff499ee25d83}</Project>
+      <Name>Tyuiu.ShustovTS.Sprint1.Task0.V13.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
